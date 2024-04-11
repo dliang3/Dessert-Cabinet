@@ -3,12 +3,12 @@
 }
 
 .App-header {
-  background-color: #FFEEDD;
-  min-height: 100vh;
+  font-family: "Reem Kufi Fun", sans-serif;
+  min-height: 10vh;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  font-size: calc(10px + 2vmin);
+  font-size: 40px;
   color: black;
 }
