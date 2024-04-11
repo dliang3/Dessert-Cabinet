@@ -8,3 +8,5 @@ dist/
 # editor files
 .vscode/
 .idea/
+
+backend/config.env
