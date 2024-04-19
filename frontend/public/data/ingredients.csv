@@ -1,0 +1,44 @@
+name,type
+Flour,Dry
+Sugar,Sweetener
+Salt,Seasoning
+Pepper,Seasoning
+Butter,Dairy
+Milk,Dairy
+Eggs,Dairy
+Olive oil,Oil
+Vegetable oil,Oil
+Canola oil,Oil
+Coconut oil,Oil
+Honey,Sweetener
+Maple syrup,Sweetener
+Vanilla extract,Flavoring
+Chocolate,Flavoring
+Cinnamon,Flavoring
+Nutmeg,Flavoring
+Baking powder,Leavening agent
+Baking soda,Leavening agent
+Yeast,Leavening agent
+Cocoa powder,Flavoring
+Cornstarch,Thickening agent
+Gelatin,Thickening agent
+Broth,Stock
+Chicken broth,Stock
+Beef broth,Stock
+Vegetable broth,Stock
+Pasta,Grain
+Rice,Grain
+Quinoa,Grain
+Barley,Grain
+Bread,Grain
+Peanut butter,Spread
+Almond butter,Spread
+Jam,Spread
+Mayonnaise,Spread
+Mustard,Condiment
+Ketchup,Condiment
+Soy sauce,Condiment
+Worcestershire sauce,Condiment
+Vinegar,Condiment
+Lemon juice,Condiment
+Lime juice,Condiment
