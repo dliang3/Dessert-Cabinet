@@ -1,44 +1,87 @@
 name,type
-Flour,Dry
-Sugar,Sweetener
-Salt,Seasoning
-Pepper,Seasoning
-Butter,Dairy
-Milk,Dairy
-Eggs,Dairy
-Olive oil,Oil
-Vegetable oil,Oil
-Canola oil,Oil
-Coconut oil,Oil
-Honey,Sweetener
-Maple syrup,Sweetener
-Vanilla extract,Flavoring
-Chocolate,Flavoring
-Cinnamon,Flavoring
-Nutmeg,Flavoring
-Baking powder,Leavening agent
-Baking soda,Leavening agent
-Yeast,Leavening agent
-Cocoa powder,Flavoring
-Cornstarch,Thickening agent
-Gelatin,Thickening agent
-Broth,Stock
-Chicken broth,Stock
-Beef broth,Stock
-Vegetable broth,Stock
-Pasta,Grain
-Rice,Grain
-Quinoa,Grain
-Barley,Grain
-Bread,Grain
-Peanut butter,Spread
-Almond butter,Spread
-Jam,Spread
-Mayonnaise,Spread
-Mustard,Condiment
-Ketchup,Condiment
-Soy sauce,Condiment
-Worcestershire sauce,Condiment
-Vinegar,Condiment
-Lemon juice,Condiment
-Lime juice,Condiment
+water,common
+flour,common
+sugar,common
+salt,common
+pepper,common
+butter,dairy
+milk,dairy
+eggs,dairy
+olive oil,oil
+vegetable oil,oil
+canola oil,oil
+coconut oil,oil
+honey,sweetener
+maple syrup,sweetener
+vanilla extract,flavoring
+chocolate,flavoring
+cocoa powder,flavoring
+cinnamon,flavoring
+nutmeg,flavoring
+baking powder,leavening agent
+baking soda,leavening agent
+yeast,leavening agent
+cornstarch,thickening agent
+gelatin,thickening agent
+broth,stock
+chicken broth,stock
+beef broth,stock
+vegetable broth,stock
+pasta,grain
+rice,grain
+quinoa,grain
+barley,grain
+bread,grain
+peanut butter,spread
+almond butter,spread
+jam,spread
+mayonnaise,spread
+mustard,condiment
+ketchup,condiment
+soy sauce,condiment
+worcestershire sauce,condiment
+vinegar,condiment
+lemon juice,condiment
+lime juice,condiment
+cream,dairy
+cream cheese,dairy
+sour cream,dairy
+yogurt,dairy
+ice cream,dairy
+whipped cream,dairy
+marshmallows,confectionery
+chocolate chips,confectionery
+caramel,confectionery
+toffee,confectionery
+jelly beans,confectionery
+gummy bears,confectionery
+candy canes,confectionery
+lollipops,confectionery
+frosting,confectionery
+icing sugar,sweetener
+brown sugar,sweetener
+powdered sugar,sweetener
+granulated sugar,sweetener
+molasses,sweetener
+agave syrup,sweetener
+corn syrup,sweetener
+raspberries,fruit
+strawberries,fruit
+blueberries,fruit
+blackberries,fruit
+cherries,fruit
+bananas,fruit
+apples,fruit
+pears,fruit
+kiwi,fruit
+mango,fruit
+peaches,fruit
+plums,fruit
+pineapple,fruit
+lemon zest,flavoring
+orange zest,flavoring
+lime zest,flavoring
+candied ginger,flavoring
+almond extract,flavoring
+mint extract,flavoring
+rosewater,flavoring
